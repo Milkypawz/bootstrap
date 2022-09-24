@@ -123,10 +123,6 @@ p {
   background-color: #ef8172;
 }
 
-#testimonial-carousel {
-  interval: 5000, pause: 'hover';
-}
-
 .testimonial-text {
   font-size: 3rem;
   line-height: 1.5;
