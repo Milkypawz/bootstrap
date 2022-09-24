@@ -55,6 +55,7 @@ p {
 
 .nav-item {
   padding: 0 18px;
+  font-family: "Ubuntu";
 }
 
 .nav-link {
@@ -102,6 +103,10 @@ p {
 
 .feature-box {
   padding: 4.5%;
+}
+
+.footer {
+  font-family: "Ubuntu";
 }
 
 .icon {
