@@ -55,12 +55,11 @@ p {
 
 .nav-item {
   padding: 0 18px;
-  font-family: "Ubuntu";
 }
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: 'Lobster';
+  font-family: "Ubuntu";
 }
 
 /* Buttons */
@@ -165,6 +164,10 @@ p {
 
 
 /* Footer Section */
+
+.copyright {
+  font-family: "Ubuntu";
+}
 
 
 .social-icon {
